@@ -1,0 +1,28 @@
+int stanze [num_stanze][5]={
+     {0,999,0,4,0}, // STANZA 1
+     {0,0,3,6,0},	// STANZA 2
+     {2,0,0,7,2},	// STANZA 3
+     {0,1,5,0,0},	// STANZA 4
+     {4,0,6,9,0},	// STANZA 5
+     {5,2,0,10,1},  // STANZA 6
+     {0,3,8,0,0},   // STANZA 7
+     {7,0,0,11,0},  // STANZA 8
+     {0,5,10,0,1},  // STANZA 9
+     {9,6,0,12,0},  // STANZA 10
+     {0,8,0,0,0},	// STANZA 11
+     {0,10,0,0,2},  // STANZA 12
+     };
+    char nomi_stanze[num_stanze][100]={
+    {"sala del trono"},//1
+    {"antro della strega"},//2
+    {"covo dell' orco"},//3
+    {"giardino oscuro"},//4
+    {"antica biblioteca"},//5
+    {"sala da ballo"},//6
+    {"mansarda"},//7
+    {"studio"},//8
+    {"taverna"},//9
+    {"garage"},//10
+    {"bagno"},//11
+    {"prigione"}//12
+    };
