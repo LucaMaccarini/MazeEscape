@@ -1,6 +1,6 @@
 # MazeEscape
 
-<img src="maze_escape.png" width="600">
+<img src="immagini/game_over.jpg" width="600">
 
 # Description
 This project is a simple video game developed in C++ without the use of a game engine, utilizing a basic graphics library that allows for polygon drawing. The player is trapped in a maze made up of multiple rooms, each with doors. The player can rotate in place to face different directions or move through the door in front of them.
